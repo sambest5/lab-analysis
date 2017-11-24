@@ -1,0 +1,8 @@
+# ignore all .a files
+*.a
+
+#ignore all .o files
+*.o
+
+#ignore all files ending in ~
+*~
