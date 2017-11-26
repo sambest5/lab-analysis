@@ -1,0 +1,26 @@
+body{
+    margin-top:100px;
+    margin-left:200px;
+    margin-right:200px;
+    background-color:#d2c0ff;
+    background-image:url('../img/rickandmorty.png');
+}
+
+.content{
+    background-color:#d2c0ff;
+    padding:30px;
+    padding-top:20px;
+}
+
+.open{
+    display:block;
+}
+
+.closed > .toDisplay {
+    display:none;
+}
+
+.reveal{
+    font-size:large;
+    color:blue;
+}
